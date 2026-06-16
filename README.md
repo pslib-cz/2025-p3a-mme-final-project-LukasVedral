@@ -12,6 +12,11 @@ To-do list
 [ ] Povrchová úprava: Test zdrsnění povrchu (pískování nebo smirkování) pro lepší tření
 
 [ ] Sestavit a otestovat: Statické zavěšení a dynamicé přítáhy
+
+[Printables](https://www.printables.com/model/1755958-single-hand-fingerboard])
+
+
+
 <img width="2976" height="3968" alt="IMG_20260615_210015" src="https://github.com/user-attachments/assets/21e786f8-16b8-4b8f-8366-56b1bf00f7ed" />
 <img width="2976" height="3968" alt="IMG_20260615_210031" src="https://github.com/user-attachments/assets/0d15f7a6-c389-4295-8937-29d57dec4225" />
 <img width="2976" height="3968" alt="IMG_20260615_210414" src="https://github.com/user-attachments/assets/e50a61fd-5c94-4924-b5ad-a8b7de60572c" />
