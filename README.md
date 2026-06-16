@@ -13,7 +13,7 @@ To-do list
 
 [ ] Sestavit a otestovat: Statické zavěšení a dynamicé přítáhy
 
-[Printables](https://www.printables.com/model/1755958-single-hand-fingerboard])
+[Printables](https://www.printables.com/model/1755958-single-hand-fingerboard)
 
 
 
